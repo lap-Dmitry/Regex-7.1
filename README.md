@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/93pwv2cbvnt2ybt3/branch/master?svg=true)](https://ci.appveyor.com/project/lap-Dmitry/regex-7-1/branch/master)
